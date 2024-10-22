@@ -6,7 +6,7 @@ global.countrycode = "ID"; // Country Code - https://countrycode.org/ (ISO CODES
 global.countrycodephone = "62"; // Country Phone - https://countrycode.org/ (COUNTRY CODE)
 global.timezone = "Asia/Jakarta"; // Time Zone
 global.usePairingNumber = false; // true = Pairing Code / false = QRCode
-global.pairingNumber = ""; // whatsapp number used as a bot, for pairing number
+global.pairingNumber = "62895324399627"; // whatsapp number used as a bot, for pairing number
 //========================================================
 
 global.pp_bot = fs.readFileSync("./image/logo.png"); // location and name of the logo
